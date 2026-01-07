@@ -1,0 +1,6 @@
+#- Embeddings
+gensim 
+sentence-transformers
+#- NLP tokenization
+nltk
+scikit-learn
