@@ -4,3 +4,12 @@ sentence-transformers
 #- NLP tokenization
 nltk
 scikit-learn
+#- Vector DB
+faiss-cpu
+numpy
+pandas
+#- Env management
+python-dotenv
+dotenv
+
+
